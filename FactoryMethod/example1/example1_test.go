@@ -12,10 +12,6 @@ func TestPlay(t *testing.T) {
 	play(example1.AssassinCreator{})
 }
 
-func main() {
-
-}
-
 func play(creator example1.RoleCreator) {
 
 	var (
