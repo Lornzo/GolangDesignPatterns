@@ -11,7 +11,7 @@
 - 接著定義一個角色產生器的介面，Client端可以透過這個產生器來拿到角色介面物件，**Client端程式碼並不需要知道實際拿到了哪一個職業實例，只需要知道這個角色有一個攻擊的方法**
 - 接著實作每個角色的類別，並確保這些類別都實作了「職業介面」
 - 然後為這此角色製做專屬於它們的工廠，**並確保這些工廠類別實作了「角色產生器」的介面**
-![image](./structure.png)
+![image](./pattern.png)
 
 ## Factory Method Implementations/Simple Code
 * role.go
