@@ -16,7 +16,7 @@
 ## Factory Method Implementations/Simple Code
 * car.go
   - 汽車介面與實作
-* car.go
+* carcreator.go
   - 汽車產生器介面與實作
 * 測試
   - `go test -v .`
