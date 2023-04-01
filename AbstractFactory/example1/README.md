@@ -39,6 +39,6 @@
 
 ## Factory Method Implementations/Simple Code
 值得注意的是，因為我們所需要的只有武器，所以我們在實作上return的都是`IWeapon`介面
-* `example1_test.go` 主要測試的程式，看看Client端程式碼如果使用抽象工廠模式
+* `example1_test.go` 主要測試的程式，看看Client端程式碼如何使用抽象工廠模式
 * `weapon.go` 武器的介面與類別
 * `weaponfactory.go` 武器工廠的介面與類別

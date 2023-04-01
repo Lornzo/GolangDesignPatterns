@@ -5,7 +5,7 @@
 - 是一種創造型的設計模式，它會定義一個介面來建立一組「相關」或「相依」的物件，且不需要指定它們的俱體類別。
 
 ## Abstract Factory Structure (抽象工廠模式結構)
-![image](./structure.png)
+![image](./pattern.png)
 
 ## Abstract Factory Participants (抽象工廠模式角色)
 * (interface) Objects (圖中的ObjectA & ObjectB)
