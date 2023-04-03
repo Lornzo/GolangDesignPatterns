@@ -1,4 +1,4 @@
-# Abstract Factory Example3 (抽象工廠模式範例3)
+# Abstract Factory Example4 (抽象工廠模式範例4)
 
 ## Abstract Factory Motivation (情境)
 你正在開發一個多媒體編輯軟體，其中需要支援多種影音格式，包括mp4、avi、mov等。你想使用抽象工廠模式來設計影音格式的解碼器，每個解碼器都能夠將不同格式的影音檔案轉換成統一的內部格式，並且能夠在不同平台上運作。請使用抽象工廠模式來實現這個需求。
