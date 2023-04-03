@@ -12,9 +12,9 @@
 
 ![image](./pattern.png)
 
-## Factory Method Implementations/Simple Code
+## AbstractFactory Implementations/Simple Code
 * `example2_test.go` 主要測試的程式，看看Client端程式碼如何使用抽象工廠模式來生產不同車子的部件們
-* `carbody.go` 不同車子的車體介面與類別
-* `carengine.go` 不同車子的引擎介面與類別
-* `carwheel.go` 不同車子的輪胎介面與類別
-* 如果我們要新增一個「大卡車」的車子，我們只需要新增一個大卡車工廠的類別即可
+* `country.go` 抽象工廠
+* `menu.go` 不同語言的menu
+* `style.go` 不同國家的風味
+* `exchange.go` 不同國家的匯率

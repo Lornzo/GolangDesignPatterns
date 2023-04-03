@@ -20,7 +20,7 @@
 
 ![image](./pattern.png)
 
-## Factory Method Implementations/Simple Code
+## Abstract Factory Implementations/Simple Code
 * `example2_test.go` 主要測試的程式，看看Client端程式碼如何使用抽象工廠模式來生產不同車子的部件們
 * `carbody.go` 不同車子的車體介面與類別
 * `carengine.go` 不同車子的引擎介面與類別
