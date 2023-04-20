@@ -3,7 +3,7 @@ package example2_test
 import (
 	"testing"
 
-	"github.com/Lornzo/GolangDesignPatterns/GolangDesignPatterns/Builder/example2"
+	"github.com/Lornzo/GolangDesignPatterns/Builder/example2"
 )
 
 func TestExample2(t *testing.T) {

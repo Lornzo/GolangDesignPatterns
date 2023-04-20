@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/Lornzo/GolangDesignPatterns/GolangDesignPatterns/FactoryMethod/example4"
+	"github.com/Lornzo/GolangDesignPatterns/FactoryMethod/example4"
 )
 
 func TestExample4(t *testing.T) {

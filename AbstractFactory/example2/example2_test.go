@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/Lornzo/GolangDesignPatterns/GolangDesignPatterns/AbstractFactory/example2"
+	"github.com/Lornzo/GolangDesignPatterns/AbstractFactory/example2"
 )
 
 type Car struct {

@@ -3,7 +3,7 @@ package example1_test
 import (
 	"testing"
 
-	"github.com/Lornzo/GolangDesignPatterns/GolangDesignPatterns/FactoryMethod/example1"
+	"github.com/Lornzo/GolangDesignPatterns/FactoryMethod/example1"
 )
 
 func TestPlay(t *testing.T) {
